@@ -1,0 +1,9 @@
+Front  End :
+
+The frond end is where we are delivering the content to the user, typically, in a browser where they use accesses the information, and this is where we use technologies like HTML, CSS and JavaScript
+ to render the content for to the user.
+
+
+Backend :
+
+The Frontend is suported by a back end support which is typically implemented these days using technologies like PHP, Java, ASP.NET, Ruby, Python or NodeJS.
