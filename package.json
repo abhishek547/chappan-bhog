@@ -1,0 +1,26 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "this isa testt directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek547/chappan-bhog.git"
+
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek547/chappan-bhog/issues"
+  },
+  "homepage": "https://github.com/abhishek547/chappan-bhog#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "option": "^0.2.4"
+  }
+}
